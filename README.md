@@ -1,12 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
-    <h1><h1 style="display: inline-block">👋 Hi there! I'm Danton!</h1></h1>
+    <h1 style="display: inline-block">👋 Hi there! I'm Danton!</h1>
 </div>
 <p>
-  I'm a passionate **web developer** specializing in **ReactJS** and **NodeJS**, dedicated to crafting dynamic, user-friendly interfaces and building robust, scalable systems. My journey into the world of coding started with **C++** and **Python**, which laid a strong foundation in problem-solving and sparked my love for back-end development.<br/>I thrive on exploring the latest advancements in **JavaScript** and leveraging them to create innovative solutions. Whether it's designing seamless front-end experiences or architecting efficient back-end systems, I'm always eager to push boundaries and learn something new.
+  I'm a passionate **web developer** specializing in **ReactJS** and **NodeJS**, dedicated to crafting dynamic, user-friendly interfaces and building robust, scalable systems. My journey into the world of coding started with **C++** and **Python**, which laid a strong foundation in problem-solving and sparked my love for back-end development.<br/><br/>
+  I thrive on exploring the latest advancements in **JavaScript** and leveraging them to create innovative solutions. Whether it's designing seamless front-end experiences or architecting efficient back-end systems, I'm always eager to push boundaries and learn something new. 🚀
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danton-bernardo-oliveira-de-souza-069a59278/)
 
 ---
 

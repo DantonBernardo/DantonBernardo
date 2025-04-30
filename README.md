@@ -2,10 +2,6 @@
   <ul align="center">
     <h1 style="display: inline-block">👋 Hi there! I'm Danton!</h1>
 </div>
-<p>
-  I'm a passionate <strong>web developer<strong/> specializing in <strong>ReactJS<strong/> and <strong>NodeJS<strong/> dedicated to crafting dynamic, user-friendly interfaces and building robust, scalable systems. My journey into the world of coding started with <strong>C++<strong/> and <strong>Python<strong/>, which laid a strong foundation in problem-solving and sparked my love for back-end development.<br/><br/>
-  I thrive on exploring the latest advancements in <strong>JavaScript<strong/> and leveraging them to create innovative solutions. Whether it's designing seamless front-end experiences or architecting efficient back-end systems, I'm always eager to push boundaries and learn something new. 🚀
-</p>
 
 ---
 

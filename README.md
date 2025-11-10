@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Danton!
 
 **👨‍💻 Full Stack Developer**
+
 **🎓 Software Engineer Student**
 
 ---

@@ -36,15 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-### **Profile Summary**
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dantonbernardo&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dantonbernardo&theme=dracula)
-
 --- 
 
 ## 🔗 Connect with me!
